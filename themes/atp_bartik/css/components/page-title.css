@@ -1,0 +1,15 @@
+/**
+ * @file
+ * Visual styles for Bartik's page-title component.
+ */
+
+.page-title {
+  font-size: 1.2em;
+  line-height: 1.2em;
+  font-weight: bold;
+}
+.views-row {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid #ECE9E6;
+}

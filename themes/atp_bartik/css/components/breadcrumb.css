@@ -1,0 +1,19 @@
+/**
+ * @file
+ * Styles for Bartik's breadcrumbs.
+ */
+
+.breadcrumb {
+  font-family: Calibri, "Trebuchet MS", "Gill Sans", Verdana, sans-serif;
+  font-size: 0.929em;
+    text-align: right;
+    padding: 0.250em 1.063em;
+
+}
+a.breadcrumb {
+  color: #727272 !important;
+
+}
+.region-breadcrumb {
+  padding: 0 15px;
+}
