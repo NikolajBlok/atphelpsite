@@ -1,0 +1,7 @@
+name: ATP_Blocks
+description: Conteains blocks custom made for atp use cases
+package: "ATP custom modules"
+
+type: module
+core: 8.x
+
